@@ -190,9 +190,3 @@ SwasthMitra-LangGraph/
 3. The system will route requests to appropriate tools based on content analysis
 4. Emergency messages will automatically trigger alerts to designated contacts
 
-## Contributing
-
-1. Fork the repository
-2. Create a feature branch
-3. Make your changes
-4. Submit a pull request
