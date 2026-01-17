@@ -1,0 +1,16 @@
+{
+    "whatsapp:+919666506739": [
+        {
+            "role": "user",
+            "parts": [
+                "Hello I'm Ganesh"
+            ]
+        },
+        {
+            "role": "model",
+            "parts": [
+                "Hi Ganesh! What brings you in today? 🩺\n\nLet me know your main health concern. 💡"
+            ]
+        }
+    ]
+}
