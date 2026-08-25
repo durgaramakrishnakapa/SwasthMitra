@@ -1,16 +1,28 @@
 {
-    "whatsapp:+919666506739": [
-        {
-            "role": "user",
-            "parts": [
-                "Hello I'm Ganesh"
-            ]
-        },
-        {
-            "role": "model",
-            "parts": [
-                "Hi Ganesh! What brings you in today? 🩺\n\nLet me know your main health concern. 💡"
-            ]
-        }
-    ]
+  "whatsapp:+919666506739": [
+    {
+      "role": "user",
+      "parts": [
+        "Hello I'm Ganesh"
+      ]
+    },
+    {
+      "role": "model",
+      "parts": [
+        "Hi Ganesh! What brings you in today? 🩺\n\nLet me know your main health concern. 💡"
+      ]
+    }
+  ],
+  "test-user": [
+    {
+      "role": "user",
+      "content": "Hello, I have a mild headache",
+      "ts": "2026-08-25T14:44:09.402014"
+    },
+    {
+      "role": "assistant",
+      "content": "[{'type': 'text', 'text': \"Hello! I'm Swasth Mitra. I'm sorry to hear you're feeling unwell. I can certainly help you look into this.\\n\\nTo get a better understanding, how long have you been experiencing this headache, and is it located in a specific part of your head (like the front, temples, or back)?\\n\\n***\\n\\n*Disclaimer: I am an AI, not a doctor. This information is for educational purposes and is not a substitute for professional medical advice, diagnosis, or treatment.*\", 'extras': {'signature': 'EnEKbwERTTIPPGv7KEka/sfsLC9cL5a0M+is5cBBrI2YuWJmK9mK/lmH5NP1hWl6OIfpaekcTJSDHNa4cWYqOi67Fw8xEZCt2tfbBU5vgfAItMsi1gBtIIgk4ppAsZCg6UTDGKos4f/FWFNdrS5ErWed/Q=='}}]",
+      "ts": "2026-08-25T14:44:09.402019"
+    }
+  ]
 }
